@@ -18,7 +18,7 @@ This project is built using Python using several Python libraries, including:
 - BrautifulSoup (bs4): A library for widely used for web scraping in Python.
 - Requests: A library for HTTP requests in Python.
 
-## Project Steps
+## Project Tasks
 
 Here are the steps you need to follow to complete the project:
 
